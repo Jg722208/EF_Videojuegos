@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "EF_N00024113"
